@@ -1,0 +1,6 @@
+Step 1. Personal details 
+Step 2. Create account
+step 3. Set password  
+Step 4. Sign up
+Step 5. Connect an authentication app
+step 6. scan the qr code
